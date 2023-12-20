@@ -1,2 +1,1 @@
-# terraform-class-
-lidors demos
+# terraform-class
